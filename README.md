@@ -2,7 +2,6 @@
 ## BASIC INSTRUCTIONS
 For this project, you will be building your project using IntelliJ IDEA (Ultimate Edition). You will be working with an existing MySQL database and Angular front-end, which are supplied.If you wish to work on it on your local machine, you will also need to download the Angular front-end application and create your own MySQL database.   
 
-
 ## SUPPLEMENTAL RESOURCES  
 1.	How to clone a project to IntelliJ using Git?
 
@@ -16,6 +15,9 @@ For this project, you will be building your project using IntelliJ IDEA (Ultimat
 - IntelliJ method
 > In IntelliJ, Go to the 'Git' button on the top toolbar. Select the new branch option and create a name for the branch. Make sure checkout branch is selected and press create. You can now add a commit message and push the new branch to the local repo.
 
+## ERD Diagram of the Entities
+![Vacation ERD](https://github.com/user-attachments/assets/189c5a5b-35ff-41aa-af9c-4ada72c19cdc)
 ## FUTURE USE
 Take this opportunity to create or add to a simple resume portfolio to highlight and showcase your work for future use in career search, experience, and education!
+
 
